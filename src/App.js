@@ -56,7 +56,7 @@ const App = () => {
     <div>
       <br />
       <div className="bg-[skyblue]/[0.5] border-2 shadow-lg max-w-3xl rounded-lg p-3 m-auto">
-        <Title title="Task to be Done" />
+        <Title title="Task to do List" />
         <Input
           placeholder="Input Task Here . . . "
           value={newTaskValue}
